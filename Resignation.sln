@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resignation", "Resignation\Resignation.csproj", "{DA8DAF7D-FFA5-4C44-83B2-45FB44DBC2B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8DAF7D-FFA5-4C44-83B2-45FB44DBC2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8DAF7D-FFA5-4C44-83B2-45FB44DBC2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8DAF7D-FFA5-4C44-83B2-45FB44DBC2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8DAF7D-FFA5-4C44-83B2-45FB44DBC2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB295A1-2B60-41DD-B925-B40F7642CDA8}
+	EndGlobalSection
+EndGlobal
